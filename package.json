@@ -32,7 +32,7 @@
   "author": "Bogdan Chadkin <trysound@yandex.ru>",
   "license": "MIT",
   "dependencies": {
-    "@babel/code-frame": "^7.10.4",
+    "@babel/code-frame": "^7.12.13",
     "jest-worker": "^26.2.1",
     "serialize-javascript": "^4.0.0",
     "terser": "^5.0.0"
